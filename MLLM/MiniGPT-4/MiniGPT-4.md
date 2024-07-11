@@ -21,14 +21,19 @@ This repository contains Google Colab notebooks for running different models of 
 
 1. **MiniGPT-4-Llama2-7B-demo Page Rendering**
     ![MiniGPT-4-Llama2-7B-demo Page Rendering](image/MiniGPT-4-Llama2-7B-demo.jpg)
+
 2. **MiniGPT-4-Llama2-7B-demo Memory Usage**
     ![MiniGPT-4-Llama2-7B-demo Memory Usage](image/MiniGPT-4-Llama2-7B-demo-Memory.jpg)
+
 3. **MiniGPT-4-Vicuna-7B-demo Page Rendering**
     ![MiniGPT-4-Vicuna-7B-demo Page Rendering](image/MiniGPT-4-Vicuna-7B-demo.jpg)
+
 4. **MiniGPT-4-Vicuna-7B-demo Memory Usage**
     ![MiniGPT-4-Vicuna-7B-demo Memory Usage](image/MiniGPT-4-Vicuna-7B-demo-Memory.jpg)
+
 5. **MiniGPT-4-Vicuna-13B-demo Page Rendering**
     ![MiniGPT-4-Vicuna-13B-demo Page Rendering](image/MiniGPT-4-Vicuna-13B-demo.jpg)
+
 6. **MiniGPT-4-Vicuna-13B-demo Memory Usage**
     ![MiniGPT-4-Vicuna-13B-demo Memory Usage](image/MiniGPT-4-Vicuna-13B-demo-Memory.jpg)
 
@@ -40,4 +45,4 @@ This repository contains Google Colab notebooks for running different models of 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project follows the licenses of the original repositories. For more details, please refer to the LICENSE file and the license files in the original repositories.
