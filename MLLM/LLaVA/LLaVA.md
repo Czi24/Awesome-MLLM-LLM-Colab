@@ -27,7 +27,21 @@ This repository contains Google Colab notebooks for running different models of 
 
 ## Visual Results
 
-### Model Performance and Memory Usage
+### LLaVA 1.5
+
+1. **LLaVA-1.5-vicuna-7b-4bit-demo Page Rendering**
+    ![LLaVA-1.5-vicuna-7b-4bit-demo Page Rendering](image/llava-v1.5-vicuna-7b-4bit-demo.jpg)
+
+2. **LLaVA-1.5-vicuna-7b-4bit-demo Memory Usage**
+    ![LLaVA-1.5-vicuna-7b-4bit-demo Memory Usage](image/llava-v1.5-vicuna-7b-4bit-demo-Memory.jpg)
+
+3. **LLaVA-1.5-vicuna-7b-8bit-demo Page Rendering**
+    ![LLaVA-1.5-vicuna-7b-8bit-demo Page Rendering](image/llava-v1.5-vicuna-7b-8bit-demo.jpg)
+
+4. **LLaVA-1.5-vicuna-7b-8bit-demo Memory Usage**
+    ![LLaVA-1.5-vicuna-7b-8bit-demo Memory Usage](image/llava-v1.5-vicuna-7b-8bit-demo-Memory.jpg)
+
+### LLaVA 1.6
 
 1. **LLaVA-1.6-mistral-7b-4bit-demo Page Rendering**
     ![LLaVA-1.6-mistral-7b-4bit-demo Page Rendering](image/llava-v1.6-mistral-7b-4bit-demo.jpg)
