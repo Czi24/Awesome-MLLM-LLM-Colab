@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Awesome MLLM-LLM Colab repository! This repository contains a collection of Google Colab notebooks for running various models of Multimodal Large Language Models (MLLM) and Large Language Models (LLM). These notebooks are designed to facilitate the use and experimentation of advanced AI models in vision-language understanding and more.
+Welcome to the Awesome MLLM-LLM Colab repository! This repository contains a collection of Google Colab notebooks for running various models of Multimodal Large Language Models (MLLM) and Large Language Models (LLM). 
 
 
 
