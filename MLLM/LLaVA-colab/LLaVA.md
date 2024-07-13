@@ -22,7 +22,7 @@ This repository contains Google Colab notebooks for running different models of 
 
 ## Model Zoo
 
-<div align="center">
+
 
 | Model                        | 🤗 Hugging Face Link                                                      | Memory Usage        |
 |------------------------------|---------------------------------------------------------------------------|---------------------|
@@ -39,7 +39,6 @@ This repository contains Google Colab notebooks for running different models of 
 | llava-v1.6-vicuna-13b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-13b)   | 32337MiB memory     |
 | llava-v1.6-34b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-34b)          | 69085MiB memory     |
 
-</div>
 
 ## Usage
 
