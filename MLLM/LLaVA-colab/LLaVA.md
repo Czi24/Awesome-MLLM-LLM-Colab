@@ -24,20 +24,20 @@ This repository contains Google Colab notebooks for running different models of 
 
 
 
-| Model                        | 🤗 Hugging Face Link                                                      | Memory Usage        |
-|------------------------------|---------------------------------------------------------------------------|---------------------|
-| llava-v1.5-7b-4bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)           | 6043MiB  memory     |
-| llava-v1.5-7b-8bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)           | 9127MiB  memory     |
-| llava-v1.5-7b                | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)           | 15811MiB memory     |
-| llava-v1.5-13b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-13b)          | 28515MiB memory     |
-| llava-v1.6-mistral-7b-4bit   | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)   | 6063MiB  memory     |
-| llava-v1.6-mistral-7b-8bit   | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)   | 13855MiB memory     |
-| llava-v1.6-mistral-7b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)   | 16949MiB memory     |
-| llava-v1.6-vicuna-7b-4bit    | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)    | 7147MiB  memory     |
-| llava-v1.6-vicuna-7b-8bit    | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)    | 10651MiB memory     |
-| llava-v1.6-vicuna-7b         | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)    | 18047MiB memory     |
-| llava-v1.6-vicuna-13b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-13b)   | 32337MiB memory     |
-| llava-v1.6-34b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-34b)          | 69085MiB memory     |
+| Model                        | 🤗 Hugging Face                                                         | Memory Usage        |
+|------------------------------|-------------------------------------------------------------------------|---------------------|
+| llava-v1.5-7b-4bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)         | 6043MiB  memory     |
+| llava-v1.5-7b-8bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)         | 9127MiB  memory     |
+| llava-v1.5-7b                | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)         | 15811MiB memory     |
+| llava-v1.5-13b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-13b)        | 28515MiB memory     |
+| llava-v1.6-mistral-7b-4bit   | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b) | 6063MiB  memory     |
+| llava-v1.6-mistral-7b-8bit   | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b) | 13855MiB memory     |
+| llava-v1.6-mistral-7b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b) | 16949MiB memory     |
+| llava-v1.6-vicuna-7b-4bit    | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)  | 7147MiB  memory     |
+| llava-v1.6-vicuna-7b-8bit    | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)  | 10651MiB memory     |
+| llava-v1.6-vicuna-7b         | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)  | 18047MiB memory     |
+| llava-v1.6-vicuna-13b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-13b) | 32337MiB memory     |
+| llava-v1.6-34b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-34b)        | 69085MiB memory     |
 
 
 ## Usage
