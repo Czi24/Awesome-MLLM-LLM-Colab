@@ -1,4 +1,3 @@
-```markdown
 # LLaVA Colab Notebooks
 
 ## Introduction
@@ -64,4 +63,3 @@ This repository contains Google Colab notebooks for running different models of 
 ## License
 
 This project follows the licenses of the original repositories. For more details, please refer to the LICENSE file and the license files in the original repositories.
-```
