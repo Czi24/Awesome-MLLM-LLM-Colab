@@ -4,9 +4,9 @@
 
 This repository contains Google Colab notebooks for running different models of LLaVA, which enhance vision-language understanding using advanced large language models. For more information on the original models, refer to the LLaVA papers and the [official GitHub repository](https://github.com/haotian-liu/LLaVA).
 
-- **LLaVA: Visual Instruction Tuning** ([arXiv link](https://arxiv.org/abs/2304.08485))
-- **LLaVA v1.5: Improved Baselines with Visual Instruction Tuning** ([arXiv link](https://arxiv.org/abs/2310.03744))
-- **LLaVA v1.6: LLaVA-NeXT: Improved Reasoning, OCR, and World Knowledge** ([Blog link](https://llava-vl.github.io/blog/2024-01-30-llava-next/))
+- **[LLaVA: Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)**
+- **[LLaVA v1.5: Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)**
+- **[LLaVA v1.6: LLaVA-NeXT: Improved Reasoning, OCR, and World Knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/)**
 
 ## Notebooks
 
@@ -144,15 +144,7 @@ This repository contains Google Colab notebooks for running different models of 
 
     ![LLaVA-v1.6-34b-demo Memory Usage](image/llava-v1.6-34b-demo-Memory.jpg)
 
-## References
 
-- **LLaVA: Visual Instruction Tuning** [arXiv paper](https://arxiv.org/abs/2304.08485)
-
-- **LLaVA v1.5: Improved Baselines with Visual Instruction Tuning** [arXiv paper](https://arxiv.org/abs/2310.03744)
-
-- **LLaVA v1.6: LLaVA-NeXT: Improved Reasoning, OCR, and World Knowledge** [Blog post](https://llava-vl.github.io/blog/2024-01-30-llava-next/)
-
-- [LLaVA GitHub repository](https://github.com/haotian-liu/LLaVA)
 
 ## License
 
