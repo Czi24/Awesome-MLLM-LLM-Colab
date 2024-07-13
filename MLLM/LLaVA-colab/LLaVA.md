@@ -24,7 +24,7 @@ This repository contains Google Colab notebooks for running different models of 
 
 <div align="center">
 
-| Model                        | 😊 Hugging Face Link                                                      | Memory Usage        |
+| Model                        | 🤗 Hugging Face Link                                                      | Memory Usage        |
 |------------------------------|---------------------------------------------------------------------------|---------------------|
 | llava-v1.5-7b-4bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)           | 6043MiB  memory     |
 | llava-v1.5-7b-8bit           | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.5-7b)           | 9127MiB  memory     |
