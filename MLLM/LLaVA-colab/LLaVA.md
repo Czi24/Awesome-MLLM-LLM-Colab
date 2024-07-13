@@ -11,23 +11,37 @@ This repository contains Google Colab notebooks for running different models of 
 ## Notebooks
 
 ### LLaVA v1.5
-1. [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5/llava-v1.5-7b-4bit-demo.ipynb)
-
-2. [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5/llava-v1.5-7b-8bit-demo.ipynb)
+1. [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-4bit-demo.ipynb)
+2. [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-8bit-demo.ipynb)
 
 ### LLaVA v1.6
-1. [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6/llava-v1.6-mistral-7b-4bit-demo.ipynb)
+1. [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-4bit-demo.ipynb)
+2. [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-8bit-demo.ipynb)
+3. [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-4bit-demo.ipynb)
+4. [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-8bit-demo.ipynb)
 
-2. [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6/llava-v1.6-mistral-7b-8bit-demo.ipynb)
 
-3. [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6/llava-v1.6-vicuna-7b-4bit-demo.ipynb)
+## Model Zoo
 
-4. [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6/llava-v1.6-vicuna-7b-8bit-demo.ipynb)
+| Model                        | HF Address                                                                                      | Memory Usage    |
+|------------------------------|-------------------------------------------------------------------------------------------------|-----------------|
+| llava-v1.5-7b-4bit           | [HF link](https://huggingface.co/liuhaotian/llava-v1.5-7b)                                      | 6043MiB  memory |
+| llava-v1.5-7b-8bit           | [HF link](https://huggingface.co/liuhaotian/llava-v1.5-7b)                                      | 9127MiB  memory |
+| llava-v1.5-7b                | [HF link](https://huggingface.co/liuhaotian/llava-v1.5-7b)                                      | 15811MiB memory |
+| llava-v1.5-13b               | [HF link](https://huggingface.co/liuhaotian/llava-v1.5-13b)                                     | 28515MiB memory |
+| llava-v1.6-mistral-7b-4bit   | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)                              | 6063MiB  memory |
+| llava-v1.6-mistral-7b-8bit   | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)                              | 13855MiB memory |
+| llava-v1.6-mistral-7b        | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-mistral-7b)                              | 16949MiB memory |
+| llava-v1.6-vicuna-7b-4bit    | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)                               | 7147MiB  memory |
+| llava-v1.6-vicuna-7b-8bit    | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)                               | 10651MiB memory |
+| llava-v1.6-vicuna-7b         | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-7b)                               | 18047MiB memory |
+| llava-v1.6-vicuna-13b        | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-13b)                              | 32337MiB memory |
+| llava-v1.6-34b               | [HF link](https://huggingface.co/liuhaotian/llava-v1.6-34b)                                     | 69085MiB memory |
+
 
 ## Usage
 
 1. Open the notebook you want to run.
-
 2. Follow the instructions provided in the notebook to execute the cells and test the models.
 
 ## Visual Results
