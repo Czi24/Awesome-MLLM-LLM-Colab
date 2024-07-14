@@ -5,18 +5,13 @@
 This repository contains Google Colab notebooks for running different models of MiniGPT-4, which enhance vision-language understanding using advanced large language models. For more information on the original models, refer to the MiniGPT-4 paper titled **"[MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592)"** and the **[official GitHub repository](https://github.com/Vision-CAIR/MiniGPT-4)**.
 
 
-
-## Notebooks
-
 ## Notebooks
 
 | Notebook | Open in Colab |
 |----------|---------------|
-| [MiniGPT-4-Llama2-7B-demo.ipynb](MiniGPT-4-Llama2-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19eMWCUOJnIp1Ai6TLDYvV_yKQCQRlyg8) |
-| [MiniGPT-4-Vicuna-7B-demo.ipynb](MiniGPT-4-Vicuna-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PKTADGoDfT_6VQGKquD3ldt0PzGcZ_HJ) |
-| [MiniGPT-4-Vicuna-13B-demo.ipynb](MiniGPT-4-Vicuna-13B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kARPOUH8C1iNZEfLHP-faGORlfzyqmbd) |
-
-
+| [MiniGPT-4-Llama2-7B-demo.ipynb](MiniGPT-4-Llama2-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zg4h9pMSZldv7QFZa6gTWLrApLcrgYa3) |
+| [MiniGPT-4-Vicuna-7B-demo.ipynb](MiniGPT-4-Vicuna-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15CKdb75ICYfSgyY0v94vARHNlsNcyh3p) |
+| [MiniGPT-4-Vicuna-13B-demo.ipynb](MiniGPT-4-Vicuna-13B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ep8IXsuLSgXkA4Z9QBx2604i9-Q-3NiP) |
 
 
 ## Usage

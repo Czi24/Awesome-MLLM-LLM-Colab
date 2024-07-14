@@ -8,23 +8,24 @@ This repository contains Google Colab notebooks for running different models of 
 - **[LLaVA v1.5: Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744)**
 - **[LLaVA v1.6: LLaVA-NeXT: Improved Reasoning, OCR, and World Knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-next/)**
 
+
 ## Notebooks
 
 ### LLaVA v1.5
 
 | Notebook | Open in Colab |
 |----------|---------------|
-| [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10u5esolIasNodq3o-u7tTlsig9Wc7I01) |
-| [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zucn57MQ62peKAkVeLnbYzxPsBSJtPCP) |
+| [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wIyrje1Nbkq6Jo9vbzZhgeIq5HOZX38i) |
+| [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GhvYEf_gcsdEVw45q2AJc8NpkSdiKjxH) |
 
 ### LLaVA v1.6
 
 | Notebook | Open in Colab |
 |----------|---------------|
-| [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yt7OySStluITFr6_VWe2KtHAV32nh1Kv) |
-| [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C392iYC0cU6Ibr3ubcrMua7zKn73Ue7f) |
-| [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iSxqkLRZsBHJJC1OJDUPGpD553VOG0iL) |
-| [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V1by9KupqogcZ5OidwBZYe1KMi6EBRVN) |
+| [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YtsFsK_vVxwCfnbLrRg4OyxqaC5prSni) |
+| [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_YFvkpA3b7MNcEzbgLAgXIOtFZy7lahf) |
+| [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gM3zlneKJyuxq4MqElsblp_AEXqIfY6c) |
+| [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ez3Gz3B19YnsN2ZUR2oAwQeiaxYiosHD) |
 
 
 ## Model Zoo
