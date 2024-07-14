@@ -8,11 +8,15 @@ This repository contains Google Colab notebooks for running different models of 
 
 ## Notebooks
 
-1. [MiniGPT-4-Llama2-7B-demo.ipynb](MiniGPT-4-Llama2-7B-demo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19eMWCUOJnIp1Ai6TLDYvV_yKQCQRlyg8)
+## Notebooks
 
-2. [MiniGPT-4-Vicuna-7B-demo.ipynb](MiniGPT-4-Vicuna-7B-demo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PKTADGoDfT_6VQGKquD3ldt0PzGcZ_HJ)
+| Notebook | Open in Colab |
+|----------|---------------|
+| [MiniGPT-4-Llama2-7B-demo.ipynb](MiniGPT-4-Llama2-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19eMWCUOJnIp1Ai6TLDYvV_yKQCQRlyg8) |
+| [MiniGPT-4-Vicuna-7B-demo.ipynb](MiniGPT-4-Vicuna-7B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PKTADGoDfT_6VQGKquD3ldt0PzGcZ_HJ) |
+| [MiniGPT-4-Vicuna-13B-demo.ipynb](MiniGPT-4-Vicuna-13B-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kARPOUH8C1iNZEfLHP-faGORlfzyqmbd) |
 
-3. [MiniGPT-4-Vicuna-13B-demo.ipynb](MiniGPT-4-Vicuna-13B-demo.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kARPOUH8C1iNZEfLHP-faGORlfzyqmbd)
+
 
 
 ## Usage
