@@ -22,13 +22,14 @@ This repository contains Google Colab notebooks for running different models of 
 ## Usage
 
 1. Open the notebook you want to run.
-2. Follow the instructions provided in the notebook to execute the cells and test the models.
-3. To change the runtime type, follow these steps:
+2. To change the runtime type, follow these steps:
    
    - Click on the "Connect" button in the top right corner (marked as 1 in the image below).
    - Select "Change runtime type" from the dropdown menu (marked as 2 in the image below).
    - In the runtime type selection window, choose the hardware accelerator you want (marked as 3 in the image below) and click "Save".
    ![change the runtime type](image/runtime.png)
+3. Follow the instructions provided in the notebook to execute the cells and test the models.
+
 
 
 ## Visual Results
