@@ -11,14 +11,21 @@ This repository contains Google Colab notebooks for running different models of 
 ## Notebooks
 
 ### LLaVA v1.5
-1. [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-4bit-demo.ipynb)
-2. [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-8bit-demo.ipynb)
+
+| Notebook | Open in Colab |
+|----------|---------------|
+| [llava-v1.5-7b-4bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10u5esolIasNodq3o-u7tTlsig9Wc7I01) |
+| [llava-v1.5-7b-8bit-demo.ipynb](LLaVA-1.5-colab/llava-v1.5-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Zucn57MQ62peKAkVeLnbYzxPsBSJtPCP) |
 
 ### LLaVA v1.6
-1. [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-4bit-demo.ipynb)
-2. [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-8bit-demo.ipynb)
-3. [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-4bit-demo.ipynb)
-4. [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-8bit-demo.ipynb)
+
+| Notebook | Open in Colab |
+|----------|---------------|
+| [llava-v1.6-mistral-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yt7OySStluITFr6_VWe2KtHAV32nh1Kv) |
+| [llava-v1.6-mistral-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-mistral-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C392iYC0cU6Ibr3ubcrMua7zKn73Ue7f) |
+| [llava-v1.6-vicuna-7b-4bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-4bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iSxqkLRZsBHJJC1OJDUPGpD553VOG0iL) |
+| [llava-v1.6-vicuna-7b-8bit-demo.ipynb](LLaVA-1.6-colab/llava-v1.6-vicuna-7b-8bit-demo.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V1by9KupqogcZ5OidwBZYe1KMi6EBRVN) |
+
 
 ## Model Zoo
 
@@ -39,11 +46,16 @@ This repository contains Google Colab notebooks for running different models of 
 | llava-v1.6-vicuna-13b        | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-vicuna-13b) | 32337MiB memory     |
 | llava-v1.6-34b               | [Hugging Face](https://huggingface.co/liuhaotian/llava-v1.6-34b)        | 69085MiB memory     |
 
-
 ## Usage
 
 1. Open the notebook you want to run.
-2. Follow the instructions provided in the notebook to execute the cells and test the models.
+2. To change the runtime type, follow these steps:
+   
+   - Click on the "Connect" button in the top right corner (marked as 1 in the image below).
+   - Select "Change runtime type" from the dropdown menu (marked as 2 in the image below).
+   - In the runtime type selection window, choose the hardware accelerator you want (marked as 3 in the image below) and click "Save".
+   ![change the runtime type](image/runtime.png)
+3. Follow the instructions provided in the notebook to execute the cells and test the models.
 
 ## Visual Results
 
