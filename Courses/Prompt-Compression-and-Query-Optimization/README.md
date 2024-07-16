@@ -1,8 +1,8 @@
-# 《LangChain for LLM Application Development》 Colab 笔记本
+# 《Prompt Compression and Query Optimization》 Colab 笔记本
 
 ## 简介
 
-本仓库包含适用于 《LangChain for LLM Application Development》 课程的 Google Colab 笔记本。该课程旨在利用先进的大型语言模型（LLM）开发应用。有关课程的更多信息，请访问课程链接：[LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)。
+本仓库包含适用于 《Prompt Compression and Query Optimizationt》 课程的 Google Colab 笔记本。有关课程的更多信息，请访问课程链接：[Prompt Compression and Query Optimization](https://learn.deeplearning.ai/courses/prompt-compression-and-query-optimization/lesson/1/introduction)。
 
 ## 课程目录
 
@@ -30,5 +30,3 @@
 </p>
 
 3. 按照笔记本中提供的指示执行单元并测试模型。
-
-课程链接：[LangChain for LLM Application Development](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
