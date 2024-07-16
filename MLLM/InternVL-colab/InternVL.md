@@ -67,7 +67,7 @@ This repository contains Google Colab notebooks for running different models of 
    ![change the runtime type](image/runtime.png)
 3. Follow the instructions provided in the notebook to execute the cells and test the models.
 
-> **Note:** InternVL uses FlashAttention 2, which requires a compatible GPU such as the L4.
+> **Note:** InternVL uses FlashAttention 2, which requires a compatible GPU such as the L4. If you need to use a T4 GPU, you can refer to the modification in the model's config from the discussion in [InternVL Issue #144](https://github.com/OpenGVLab/InternVL/issues/144). Set `use_flash_attn` to `false` and `attn_implementation` to `eager`.
 
 ## Visual Results
 
