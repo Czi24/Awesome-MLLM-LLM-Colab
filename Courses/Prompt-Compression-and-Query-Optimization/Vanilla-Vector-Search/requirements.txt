@@ -1,0 +1,14 @@
+# requirements file
+# note which revision of python, for example 3.9.6
+# in this file, insert all the pip install needs, include revision
+
+#for example:
+#torch==2.0.1
+#matplotlib==3.7.2
+python-dotenv==1.0.0
+datasets==2.20.0
+pandas==2.2.2
+openai==1.35.5
+pymongo==4.8.0
+pydantic==2.7.4
+llmlingua==0.2.2

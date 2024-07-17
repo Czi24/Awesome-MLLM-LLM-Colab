@@ -26,7 +26,7 @@
    - 在运行时类型选择窗口中，选择您想要的硬件加速器（如图中的 3 所示），然后点击“保存”。
 
 <p align="center">
-   <img src="image/runtime.png" alt="更改运行时类型" width="80%">
+   <img src="Appendix-Tips-and-Help/image/runtime.png" alt="更改运行时类型" width="80%">
 </p>
 
 3. 按照笔记本中提供的指示执行单元并测试模型。
