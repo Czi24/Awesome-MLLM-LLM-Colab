@@ -11,40 +11,40 @@ In this course we will build a Storyteller AI Large Language Model (LLM). Hand i
 **Syllabus**  
 **课程大纲**
 
-- [Chapter 01](bigram/README.md) **Bigram Language Model** (language modeling)  
-  [第一章](bigram/README.md) **双字母语言模型**（语言建模）
-- [Chapter 02](micrograd/README.md) **Micrograd** (machine learning, backpropagation)  
-  [第二章](micrograd/README.md) **Micrograd**（机器学习，反向传播）
-- [Chapter 03](mlp/README.md) **N-gram model** (multi-layer perceptron, matmul, gelu)  
-  [第三章](mlp/README.md) **N元模型**（多层感知器，矩阵乘法，GELU）
-- [Chapter 04](attention/README.md) **Attention** (attention, softmax, positional encoder)  
-  [第四章](attention/README.md) **注意力机制**（注意力机制，softmax，位置编码器）
-- [Chapter 05](transformer/README.md) **Transformer** (transformer, residual, layernorm, GPT-2)  
-  [第五章](transformer/README.md) **Transformer**（transformer，残差，层归一化，GPT-2）
-- [Chapter 06](tokenization/README.md) **Tokenization** (minBPE, byte pair encoding)  
-  [第六章](tokenization/README.md) **分词**（minBPE，字节对编码）
-- [Chapter 07](optimization/README.md) **Optimization** (initialization, optimization, AdamW)  
-  [第七章](optimization/README.md) **优化**（初始化，优化，AdamW）
-- [Chapter 08](device/README.md) **Need for Speed I: Device** (device, CPU, GPU, ...)  
-  [第八章](device/README.md) **速度需求 I：设备**（设备，CPU，GPU，...）
-- [Chapter 09](precision/README.md) **Need for Speed II: Precision** (mixed precision training, fp16, bf16, fp8, ...)  
-  [第九章](precision/README.md) **速度需求 II：精度**（混合精度训练，fp16，bf16，fp8，...）
-- [Chapter 10](distributed/README.md) **Need for Speed III: Distributed** (distributed optimization, DDP, ZeRO)  
-  [第十章](distributed/README.md) **速度需求 III：分布式**（分布式优化，DDP，ZeRO）
-- [Chapter 11](datasets/README.md) **Datasets** (datasets, data loading, synthetic data generation)  
-  [第十一章](datasets/README.md) **数据集**（数据集，数据加载，合成数据生成）
-- [Chapter 12](inference/README.md) **Inference I: kv-cache** (kv-cache)  
-  [第十二章](inference/README.md) **推理 I：kv缓存**（kv缓存）
-- [Chapter 13](quantization/README.md) **Inference II: Quantization** (quantization)  
-  [第十三章](quantization/README.md) **推理 II：量化**（量化）
-- [Chapter 14](sft/README.md) **Finetuning I: SFT** (supervised finetuning SFT, PEFT, LoRA, chat)  
-  [第十四章](sft/README.md) **微调 I：SFT**（监督微调SFT，PEFT，LoRA，聊天）
-- [Chapter 15](rl/README.md) **Finetuning II: RL** (reinforcement learning, RLHF, PPO, DPO)  
-  [第十五章](rl/README.md) **微调 II：RL**（强化学习，RLHF，PPO，DPO）
-- [Chapter 16](deployment/README.md) **Deployment** (API, web app)  
-  [第十六章](deployment/README.md) **部署**（API，web应用）
-- [Chapter 17](multimodal/README.md) **Multimodal** (VQVAE, diffusion transformer)  
-  [第十七章](multimodal/README.md) **多模态**（VQVAE，扩散transformer）
+- [Chapter 01](https://github.com/karpathy/LLM101n/tree/master/bigram/README.md) **Bigram Language Model** (language modeling)  
+  [第一章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/bigram/README.md) **双字母语言模型**（语言建模）
+- [Chapter 02](https://github.com/karpathy/LLM101n/tree/master/micrograd/README.md) **Micrograd** (machine learning, backpropagation)  
+  [第二章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/micrograd/README.md) **Micrograd**（机器学习，反向传播）
+- [Chapter 03](https://github.com/karpathy/LLM101n/tree/master/mlp/README.md) **N-gram model** (multi-layer perceptron, matmul, gelu)  
+  [第三章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/mlp/README.md) **N元模型**（多层感知器，矩阵乘法，GELU）
+- [Chapter 04](https://github.com/karpathy/LLM101n/tree/master/attention/README.md) **Attention** (attention, softmax, positional encoder)  
+  [第四章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/attention/README.md) **注意力机制**（注意力机制，softmax，位置编码器）
+- [Chapter 05](https://github.com/karpathy/LLM101n/tree/master/transformer/README.md) **Transformer** (transformer, residual, layernorm, GPT-2)  
+  [第五章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/transformer/README.md) **Transformer**（transformer，残差，层归一化，GPT-2）
+- [Chapter 06](https://github.com/karpathy/LLM101n/tree/master/tokenization/README.md) **Tokenization** (minBPE, byte pair encoding)  
+  [第六章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/tokenization/README.md) **分词**（minBPE，字节对编码）
+- [Chapter 07](https://github.com/karpathy/LLM101n/tree/master/optimization/README.md) **Optimization** (initialization, optimization, AdamW)  
+  [第七章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/optimization/README.md) **优化**（初始化，优化，AdamW）
+- [Chapter 08](https://github.com/karpathy/LLM101n/tree/master/device/README.md) **Need for Speed I: Device** (device, CPU, GPU, ...)  
+  [第八章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/device/README.md) **速度需求 I：设备**（设备，CPU，GPU，...）
+- [Chapter 09](https://github.com/karpathy/LLM101n/tree/master/precision/README.md) **Need for Speed II: Precision** (mixed precision training, fp16, bf16, fp8, ...)  
+  [第九章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/precision/README.md) **速度需求 II：精度**（混合精度训练，fp16，bf16，fp8，...）
+- [Chapter 10](https://github.com/karpathy/LLM101n/tree/master/distributed/README.md) **Need for Speed III: Distributed** (distributed optimization, DDP, ZeRO)  
+  [第十章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/distributed/README.md) **速度需求 III：分布式**（分布式优化，DDP，ZeRO）
+- [Chapter 11](https://github.com/karpathy/LLM101n/tree/master/datasets/README.md) **Datasets** (datasets, data loading, synthetic data generation)  
+  [第十一章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/datasets/README.md) **数据集**（数据集，数据加载，合成数据生成）
+- [Chapter 12](https://github.com/karpathy/LLM101n/tree/master/inference/README.md) **Inference I: kv-cache** (kv-cache)  
+  [第十二章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/inference/README.md) **推理 I：kv缓存**（kv缓存）
+- [Chapter 13](https://github.com/karpathy/LLM101n/tree/master/quantization/README.md) **Inference II: Quantization** (quantization)  
+  [第十三章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/quantization/README.md) **推理 II：量化**（量化）
+- [Chapter 14](https://github.com/karpathy/LLM101n/tree/master/sft/README.md) **Finetuning I: SFT** (supervised finetuning SFT, PEFT, LoRA, chat)  
+  [第十四章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/sft/README.md) **微调 I：SFT**（监督微调SFT，PEFT，LoRA，聊天）
+- [Chapter 15](https://github.com/karpathy/LLM101n/tree/master/rl/README.md) **Finetuning II: RL** (reinforcement learning, RLHF, PPO, DPO)  
+  [第十五章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/rl/README.md) **微调 II：RL**（强化学习，RLHF，PPO，DPO）
+- [Chapter 16](https://github.com/karpathy/LLM101n/tree/master/deployment/README.md) **Deployment** (API, web app)  
+  [第十六章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/deployment/README.md) **部署**（API，web应用）
+- [Chapter 17](https://github.com/karpathy/LLM101n/tree/master/multimodal/README.md) **Multimodal** (VQVAE, diffusion transformer)  
+  [第十七章](https://github.com/Czi24/Awesome-MLLM-LLM-Colab/blob/master/LLM101n-Colab/multimodal/README.md) **多模态**（VQVAE，扩散transformer）
 
 **Appendix**  
 **附录**
@@ -66,6 +66,3 @@ Further topics to work into the progression above:
   多模态：图像，音频，视频，VQVAE，VQGAN，扩散
 
 ---
-
-**Update June 25.** To clarify, the course will take some time to build. There is no specific timeline. Thank you for your interest but please do not submit Issues/PRs.  
-**更新6月25日。** 为了澄清，课程需要一些时间来构建。没有具体的时间表。感谢你的兴趣，但请不要提交问题/PR。
