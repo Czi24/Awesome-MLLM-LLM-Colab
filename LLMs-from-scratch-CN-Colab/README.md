@@ -28,8 +28,7 @@
 | 附录E：使用LoRA进行参数高效微调                            | - [appendix-E.ipynb](appendix-E/01_main-chapter-code/appendix-E.ipynb)                                                          | [./appendix-E](./appendix-E)   |
 
 
-
-下图总结了本书所涵盖的内容。
+下图总结了本书所涵盖的内容
 
 <img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/mental-model.jpg" width="650px">
 
@@ -37,7 +36,7 @@
 
 ## 硬件要求
 
-本书主要章节中的代码设计为可以在普通笔记本电脑上以合理的时间范围内运行，不需要特殊的硬件。这种方法确保了广泛的受众能够参与其中。此外，代码会在检测到GPU时自动使用它们。（请参阅 [setup](https://github.com/rasbt/LLMs-from-scratch/blob/main/setup/README.md) 文档以获取额外建议。）
+本书主要章节中的代码设计为可以在普通笔记本电脑上以合理的时间范围内运行，不需要特殊的硬件。这种方法确保了广泛的受众能够参与其中。此外，代码会在检测到GPU时自动使用它们。（请参阅 [setup](setup/README.md) 文档以获取额外建议。）
 
 
 ## 额外材料
