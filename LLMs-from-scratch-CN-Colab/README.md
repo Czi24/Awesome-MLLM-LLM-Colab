@@ -1,67 +1,15 @@
 
 # 构建一个大型语言模型（从零开始）
 
-此仓库包含开发、预训练和微调一个类似GPT的大型语言模型（LLM）的代码，是书籍 [《从零开始构建大型语言模型》](http://mng.bz/orYv) 的官方代码仓库。
+此仓库包含开发、预训练和微调一个类似GPT的大型语言模型（LLM）的代码。
 
-<br>
-<br>
+官方书籍： [《从零开始构建大型语言模型》](http://mng.bz/orYv) 
 
-<a href="http://mng.bz/orYv"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg?123" width="250px"></a>
-
-<br>
-
-在[*从零开始构建大型语言模型*](http://mng.bz/orYv)中，你将从内到外地了解大型语言模型（LLM）是如何工作的，并通过一步一步编写代码来构建它们。在这本书中，我将通过清晰的文本、图表和示例引导你创建自己的LLM，解释每个阶段的工作原理。
-
-书中描述的训练和开发小型但功能齐全模型的方法，旨在为教育目的服务，其过程与创建类似于ChatGPT背后的大规模基础模型的过程类似。此外，这本书还包括加载更大预训练模型权重进行微调的代码。
-
-- 官方 [源码仓库链接](https://github.com/rasbt/LLMs-from-scratch)
-- [Manning书籍链接](http://mng.bz/orYv)
-- [Amazon书籍页面链接](https://www.amazon.com/gp/product/1633437167)
-- ISBN 9781633437166
-
-<a href="http://mng.bz/orYv#reviews"><img src="https://sebastianraschka.com//images/LLMs-from-scratch-images/other/reviews.png" width="220px"></a>
-
-
-<br>
-<br>
-
-要下载此仓库的副本，请点击 [Download ZIP](https://github.com/rasbt/LLMs-from-scratch/archive/refs/heads/main.zip) 按钮，或在终端中执行以下命令：
-
-```bash
-git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
-```
-
-<br>
-
-（如果你从Manning网站下载了代码包，请访问GitHub上的官方代码仓库 [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) 获取最新更新。）
-
-<br>
-<br>
+官方GitHub： [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 
 
 # 目录
 
-请注意，此 `README.md` 文件是一个Markdown（`.md`）文件。如果你从Manning网站下载了此代码包并在本地计算机上查看它，我建议使用Markdown编辑器或预览器来正确查看。如果你还没有安装Markdown编辑器，[MarkText](https://www.marktext.cc) 是一个不错的免费选项。
-
-你也可以在浏览器中查看GitHub上的此文件和其他文件，地址是 [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)，GitHub会自动渲染Markdown。
-
-<br>
-<br>
-<!--  -->
-
-> [!提示]
-> 如果你需要有关安装Python和Python包以及设置代码环境的指南，我建议阅读位于 [setup](setup) 目录中的 [README.md](setup/README.md) 文件。
-
-<br>
-<br>
-
-[![代码测试（Linux）](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-linux.yml/badge.svg)](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-linux.yml)
-[![代码测试（Windows）](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-windows.yml/badge.svg)](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-windows.yml)
-[![代码测试（macOS）](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-macos.yml/badge.svg)](https://github.com/rasbt/LLMs-from-scratch/actions/workflows/basic-tests-macos.yml)
-
-
-
-<br>
 
 | 章节标题                                                   | 主要代码（快速访问）                                                                                                             | 所有代码 + 补充材料           |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
@@ -79,21 +27,19 @@ git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
 | 附录D：为训练循环增加额外功能                               | - [appendix-D.ipynb](appendix-D/01_main-chapter-code/appendix-D.ipynb)                                                          | [./appendix-D](./appendix-D)   |
 | 附录E：使用LoRA进行参数高效微调                            | - [appendix-E.ipynb](appendix-E/01_main-chapter-code/appendix-E.ipynb)                                                          | [./appendix-E](./appendix-E)   |
 
-<br>
-&nbsp;
+
 
 下图总结了本书所涵盖的内容。
 
 <img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/mental-model.jpg" width="650px">
 
-<br>
-&nbsp;
+
 
 ## 硬件要求
 
 本书主要章节中的代码设计为可以在普通笔记本电脑上以合理的时间范围内运行，不需要特殊的硬件。这种方法确保了广泛的受众能够参与其中。此外，代码会在检测到GPU时自动使用它们。（请参阅 [setup](https://github.com/rasbt/LLMs-from-scratch/blob/main/setup/README.md) 文档以获取额外建议。）
 
-&nbsp;
+
 ## 额外材料
 
 多个文件夹包含了一些可选材料，作为对感兴趣读者的额外奖励：
@@ -131,25 +77,10 @@ git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
   - [用于LLM对齐的直接偏好优化 (DPO)](ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)
   - [构建与指令微调GPT模型交互的用户界面](ch07/06_user_interface)
 
-<br>
-&nbsp;
-
-## 问题、反馈与对本仓库的贡献
-
-
-我欢迎各种反馈，最佳的反馈渠道是通过 [Manning论坛](https://livebook.manning.com/forum?product=raschka&page=1) 或 [GitHub Discussions](https://github.com/rasbt/LLMs-from-scratch/discussions)。同样，如果你有任何问题或只是想与其他人交流想法，也请不要犹豫，尽管在论坛中发布。
-
-请注意，由于此仓库包含与印刷书籍对应的代码，目前我不能接受会扩展主要章节代码内容的贡献，因为这会导致与实体书内容的不一致。保持一致有助于确保所有人的顺畅体验。
 
 
 &nbsp;
 ## 引用
-
-如果你发现这本书或代码对你的研究有帮助，请考虑引用它。
-
-芝加哥风格引用：
-
-> Raschka, Sebastian. *Build A Large Language Model (From Scratch)*. Manning, 2024. ISBN: 978-1633437166.
 
 BibTeX格式：
 
@@ -166,3 +97,6 @@ BibTeX格式：
 ```
 
 
+## License
+
+This project follows the licenses of the original repositories. For more details, please refer to the LICENSE file and the license files in the original repositories.
