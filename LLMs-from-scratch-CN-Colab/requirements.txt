@@ -1,0 +1,26 @@
+torch >= 2.0.1        # all
+# PyTorch库，用于深度学习任务。该版本2.0.1或更高版本在所有章节中使用。
+
+jupyterlab >= 4.0     # all
+# JupyterLab，一个用于交互式编程的开发环境，用于运行笔记本（notebook）。该版本4.0或更高版本在所有章节中使用。
+
+tiktoken >= 0.5.1     # ch02; ch04; ch05
+# Tiktoken库，用于处理和优化语言模型中的token化操作。版本0.5.1或更高版本在第2、4、5章中使用。
+
+matplotlib >= 3.7.1   # ch04; ch05
+# Matplotlib库，用于数据可视化。版本3.7.1或更高版本在第4、5章中使用。
+
+tensorflow >= 2.15.0  # ch05
+# TensorFlow库，另一个深度学习框架。版本2.15.0或更高版本在第5章中使用。
+
+tqdm >= 4.66.1        # ch05; ch07
+# Tqdm库，用于显示进度条。版本4.66.1或更高版本在第5、7章中使用。
+
+numpy >= 1.25, < 2.0  # dependency of several other libraries like torch and pandas
+# Numpy库，用于处理多维数组和数值运算。版本要求1.25或更高，但小于2.0。它是Torch和Pandas等多个库的依赖。
+
+pandas >= 2.2.1       # ch06
+# Pandas库，用于数据分析和操作。版本2.2.1或更高版本在第6章中使用。
+
+psutil >= 5.9.5       # ch07; already installed automatically as dependency of torch
+# Psutil库，用于系统和进程信息的查询。版本5.9.5或更高版本在第7章中使用，且已作为Torch的依赖自动安装。
