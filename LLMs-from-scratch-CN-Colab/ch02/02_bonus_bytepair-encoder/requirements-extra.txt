@@ -1,3 +1,0 @@
-requests
-tqdm
-transformers>=4.33.2
