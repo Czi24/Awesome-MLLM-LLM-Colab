@@ -8,7 +8,7 @@ Welcome to the Awesome MLLM-LLM Colab repository! This repository contains a col
 
 ## License
 
-This project follows the licenses of the original repositories. For more details, please refer to the LICENSE file in this repository.
+This project follows the licenses of the original repositories. For more details, please refer to the LICENSE file in this repository .
 
 --- 
 
